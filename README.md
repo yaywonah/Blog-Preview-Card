@@ -42,14 +42,10 @@ Users should be able to:
 
 ### What I learned
 
-centering a div horizontally and vertically
-adding a background color to text
-using span instead of directly styling the header tags
-change the color of hover link text
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+- centering a div horizontally and vertically
+- adding a background color to text
+- using span instead of directly styling the header tags
+- change the color of hover link text
 
 ## Author
 
