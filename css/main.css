@@ -51,11 +51,13 @@ h3 {
 
 h1 {
     font-size: 20px;
+    padding: 12px 0;
 }
 
 p {
     color: #6B6B6B;
     font-size: 14px;
+    padding-bottom: 24px;
 }
 
 .attribution {
@@ -68,6 +70,12 @@ p {
     margin-top: 5px;
 }
 
+.author img {
+    width: 32px;
+    height: 32px;
+}
+
 h2 {
     font-size: 14px;
+    margin-left: 12px;
 }
